@@ -1,0 +1,4 @@
+Basic Git Commands
+
+git init -->   to initialize
+git status --> to check the status of the file
